@@ -5,7 +5,7 @@ This is a reference for setting up a  C project. It contains almost all of the a
   
   
 # Installation
-- Platform : Windows , Linux
+- Platform : Windows 
 - Libraries : SFML
 - Tool : Microsoft Visual Studio 2017 
 - In order to install the project the user must have the above mentioned pre-requisites. Here a short youtube video is attached on how to install and set up SFML libraries on Microsoft Visual Studio 2017 on a windows platform https://youtu.be/_9yem5dJt2E. Then finally  the user requires just only to download and keep all the files from the folder "Jerry Rush" from the link given on this GitHub page above in his or her respective project folder. 
